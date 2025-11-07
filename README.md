@@ -146,7 +146,7 @@ Displays total predictions, average confidence, class balance, and live charts.
 🔐 Specializing in DFIR, SOC Automation, and AI-driven Threat Analysis  
 📍 Based in Tunisia — open to international internships  
 
-[🌐 LinkedIn](https://www.linkedin.com/in/slim-ben-tanfous) • [💻 GitHub](https://github.com/SlimBenTanfous1)
+[🌐 LinkedIn](https://linkedin.com/in/slim-ben-tanfous-971b19244) • [💻 GitHub](https://github.com/SlimBenTanfous1)
 
 ---
 
@@ -165,3 +165,4 @@ You are free to modify, distribute, and use this code for both educational and r
 ---
 
 > _“In a world of black boxes, DeepHawk brings light to the unseen logic of malware.”_ 🦅
+
